@@ -1,0 +1,2 @@
+# megasena
+Meu primeiro codigo
